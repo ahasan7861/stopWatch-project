@@ -1,6 +1,6 @@
-function myFunction() {
-    alert("Greetings on behalf of Ahf Ahasan!");
-  }
+// function myFunction() {
+//     alert("Greetings on behalf of Ahf Ahasan!");
+//   }
 
 
 let [seconds, minutes, hours] = [0, 0, 0];
